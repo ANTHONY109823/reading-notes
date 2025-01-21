@@ -12,4 +12,4 @@ Mi visión de crecimiento como desarrollador se basa en mejorar constantemente m
 ## redes sociales
 
 1. [linke](https://www.linkedin.com/in/anthony-ccayo-3b715524a/)
-2. [Github](https://github.com/ANTHONY109823/sesion-05.git)
+2. [Github](https://github.com/ANTHONY109823)
