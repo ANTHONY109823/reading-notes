@@ -5,7 +5,7 @@
 
 | LIBRO | AUTOR | GENERO |
 | ----- | :-----: | :------: |
-| DIVINA | COMEDIA DANTE ALIGIERI | DRAMA |
+| LA PLAYA DE LOS SUEÑOS | SERGIO BAMBAREN | FANTASIA |
 ## Mi vision como desarollaador
 Mi visión de crecimiento como desarrollador se basa en mejorar constantemente mis habilidades técnicas, adaptarme a nuevas tecnologías y enfocarme en la resolución eficiente de problemas. Busco aprender de mis errores, colaborar en equipos multidisciplinarios y mantener una mentalidad crítica y curiosa, siempre con el objetivo de crear soluciones innovadoras y de impacto.
 
