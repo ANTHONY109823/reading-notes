@@ -14,4 +14,32 @@ Mi visión de crecimiento como desarrollador se basa en mejorar constantemente m
 1. [linke](https://www.linkedin.com/in/anthony-ccayo-3b715524a/)
 2. [Github](https://github.com/ANTHONY109823)
 
-## bienvenido publico presente
+## Notas de lectura - Code 101
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+## Notas de lectura - Code 201
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
