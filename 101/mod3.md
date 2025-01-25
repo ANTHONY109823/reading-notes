@@ -3,7 +3,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Explora el fascinante mundo de los drones enjambres y descubre cómo están revolucionando la tecnología.">
-  <title>Blog de Tecnología - Drones Enjambres</title>
   <!-- Favicon -->
   <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/2921/2921822.png" type="image/png">
   <!-- Google Fonts -->
