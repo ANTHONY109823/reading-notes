@@ -27,19 +27,19 @@ Mi visión de crecimiento como desarrollador se basa en mejorar constantemente m
 10. [mod10](https://github.com/ANTHONY109823/reading-notes/blob/main/101/mod10.md)
 
 ## Notas de lectura - Code 201
-1. [mod2](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod1.md)
-2. [mod2](hhttps://github.com/ANTHONY109823/reading-notes/blob/main/201/mod2.md)
+1. [mod1](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod1.md)
+2. [mod2](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod2.md)
 3. [mod3](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod3.md)
 4. [mod4](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod4.md)
-5. [mod5](https://github.com/ANTHONY109823/reading-notes/blob/mai/201mod5.md)
-6. [mod6](hhttps://github.com/ANTHONY109823/reading-notes/blob/main/201/mod5.md)
+5. [mod5](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod5.md)
+6. [mod6](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod6.md)
 7. [mod7](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod7.md)
 8. [mod8](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod8.md)
 9. [mod9](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod9.md)
 10. [mod10](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod10.md)
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+11. [mod11](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod11.md)
+12. [mod12](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod12.md)
+13. [mod13](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod13.md)
+14. [mod14](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod14.md)
+15. [mod15](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod15.md)
+16. [mod16](https://github.com/ANTHONY109823/reading-notes/blob/main/201/mod16.md)
